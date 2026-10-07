@@ -1,41 +1,44 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="./assets/header.svg" width="100%" alt="Ramon Dario Aguilar Flores - Banner" />
+  <!-- Header Banner: Retro Pixel Art (Creation of Adam / PROJECT.EXE) -->
+  <img src="./assets/banner.jpg" width="100%" alt="RAMON DARIO AGUILAR FLORES - PROJECT.EXE" />
 
   <br/><br/>
 
-  <!-- Tagline Dinámico / Typewriter -->
+  <!-- Title & Monospace Monocromático -->
+  <h1><code>RAMON DARIO AGUILAR FLORES</code></h1>
+
+  <!-- Typewriter en Blanco & Negro -->
   <a href="https://github.com/reymondaf650-del">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%26+Software+Architect;Multi-AI+Pipelines+(Gemini%2C+OpenAI%2C+Groq%2C+DeepSeek);Real-Time+Systems+(WebRTC+%2B+Socket.io);Automations%2C+Web+Scraping+%26+Cloud+Deployments" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%26+Software+Architect;Multi-AI+Pipelines+(Gemini%2C+OpenAI%2C+Groq%2C+DeepSeek);Real-Time+Systems+(WebRTC+%2B+Socket.io);Automations%2C+Web+Scraping+%26+Cloud+Deployments" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
-  <!-- Redes y Contacto -->
+  <!-- Redes y Contacto en Formato Monocromático -->
   <table>
     <tr>
       <td align="center" width="130">
         <a href="https://www.linkedin.com/in/ramon-dario-aguilar-flores-128298418" target="_blank">
-          <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" /><br>
+          <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br>
           <sub><b>LinkedIn</b></sub>
         </a>
       </td>
       <td align="center" width="130">
         <a href="https://github.com/reymondaf650-del" target="_blank">
-          <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" /><br>
+          <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br>
           <sub><b>GitHub</b></sub>
         </a>
       </td>
       <td align="center" width="130">
         <a href="mailto:darioaguilar650@gmail.com" target="_blank">
-          <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Gmail" /><br>
+          <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /><br>
           <sub><b>Gmail</b></sub>
         </a>
       </td>
       <td align="center" width="130">
         <a href="https://wa.me/59165011615" target="_blank">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" width="40" height="40" alt="WhatsApp" /><br>
+          <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /><br>
           <sub><b>WhatsApp</b></sub>
         </a>
       </td>
@@ -44,7 +47,7 @@
 
   <br/>
 
-  <!-- 3D Contribution Timeline (Colocado arriba) -->
+  <!-- 3D Contribution Timeline Arriba -->
   <h3>░░ 3D CONTRIBUTION TIMELINE ░░</h3>
   <img src="profile-3d-contrib/profile-night-green.svg" alt="Ramon Dario Aguilar Flores - 3D Contribution Graph" width="100%" />
 
@@ -78,15 +81,27 @@ Status: Open to high-impact projects & innovative tech roles
 
 ### ░░ VISION ░░
 
-> Impulsar la transformación digital construyendo software pragmático, de alto rendimiento y enfocado en resolver problemas reales. Aspiro a ser parte de la generación de ingenieros que fusiona arquitecturas web robustas con Inteligencia Artificial aplicada para maximizar la productividad y eliminar fricciones operativas.
+> Impulsar la transformación digital construyendo software pragmático, de alto rendimiento y enfocado en resolver problemas reales. Fusionar arquitecturas web robustas con Inteligencia Artificial aplicada para maximizar la productividad y eliminar fricciones operativas.
 
 ---
 
 ### ░░ BEYOND CODE ░░
 
-* 🐧 **Linux Enthusiast**: Automatización y administración remota de entornos y dispositivos móviles.
-* 🤖 **Exploración de Modelos de IA**: Pruebas continuas de nuevos LLMs, visión artificial y agentes autónomos.
-* 🔌 **Hardware & Domótica**: Integraciones con dispositivos biométricos y hardware de red.
+<table>
+  <tr>
+    <td width="65%" valign="middle">
+      <ul>
+        <li>🐧 <b>Linux Enthusiast</b>: Automatización y administración remota de servidores y dispositivos móviles.</li>
+        <li>🤖 <b>Modelos de IA &amp; LLMs</b>: Investigación de nuevos modelos, agentes autónomos y visión computacional.</li>
+        <li>🔌 <b>Hardware &amp; Domótica</b>: Dispositivos biométricos, redes y telecomunicaciones.</li>
+        <li>☕ <b>Coffee &amp; Logic</b>: Transformando café y té en código limpio y arquitecturas resilientes.</li>
+      </ul>
+    </td>
+    <td width="35%" align="center" valign="middle">
+      <img src="./assets/not-my-cup-of-tea.jpg" width="220" alt="Not My Cup of Tea - ASCII Art" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -111,12 +126,12 @@ Status: Open to high-impact projects & innovative tech roles
 
 #### Inteligencia Artificial & Automatización
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
-  <img src="https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
-  <img src="https://img.shields.io/badge/DeepSeek-1E40AF?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
-  <img src="https://img.shields.io/badge/Crawlee-FF6B6B?style=for-the-badge&logo=apify&logoColor=white" alt="Crawlee" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
+  <img src="https://img.shields.io/badge/Google_Gemini-000000?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Groq_LPU-000000?style=for-the-badge&logo=groq&logoColor=white" alt="Groq" />
+  <img src="https://img.shields.io/badge/DeepSeek-000000?style=for-the-badge&logo=deepseek&logoColor=white" alt="DeepSeek" />
+  <img src="https://img.shields.io/badge/MediaPipe-000000?style=for-the-badge&logo=google&logoColor=white" alt="MediaPipe" />
+  <img src="https://img.shields.io/badge/Crawlee-000000?style=for-the-badge&logo=apify&logoColor=white" alt="Crawlee" />
 </p>
 
 #### Bases de Datos, DevOps & Cloud
