@@ -48,14 +48,14 @@
   <br/>
 
   <!-- 3D Contribution Timeline Arriba -->
-  <h3>░░ 3D CONTRIBUTION TIMELINE ░░</h3>
+  <h3>3D CONTRIBUTION TIMELINE</h3>
   <img src="profile-3d-contrib/profile-night-green.svg" alt="Ramon Dario Aguilar Flores - 3D Contribution Graph" width="100%" />
 
 </div>
 
 ---
 
-### ░░ WHO I AM ░░
+### WHO I AM
 
 > Egresado de **Ingeniería en Sistemas** (UDABOL, Santa Cruz - Bolivia) especializado en **desarrollo web Full Stack y arquitectura de software**. Cuento con experiencia sólida en el diseño e implementación de sistemas ERP empresariales, optimización de flujos de trabajo mediante APIs y administración de servidores en entornos Linux y arquitecturas serverless escalables.
 
@@ -69,7 +69,7 @@ Status: Open to high-impact projects & innovative tech roles
 
 ---
 
-### ░░ WHAT I DO ░░
+### WHAT I DO
 
 * **Arquitectura Full Stack & ERPs**: Desarrollo integral (frontend y backend) de sistemas empresariales centralizados (ventas, compras, producción, almacenes) con **React, Next.js, FastAPI, Node.js y PostgreSQL**.
 * **Plataformas en Tiempo Real**: Soluciones de streaming y videollamadas con **WebRTC + Socket.io**, integrando microservicios de triaje clínico remoto con estimación de signos vitales (**rPPG / MediaPipe**) y traducción multimodal.
@@ -79,22 +79,22 @@ Status: Open to high-impact projects & innovative tech roles
 
 ---
 
-### ░░ VISION ░░
+### VISION
 
 > Impulsar la transformación digital construyendo software pragmático, de alto rendimiento y enfocado en resolver problemas reales. Fusionar arquitecturas web robustas con Inteligencia Artificial aplicada para maximizar la productividad y eliminar fricciones operativas.
 
 ---
 
-### ░░ BEYOND CODE ░░
+### BEYOND CODE
 
 <table>
   <tr>
     <td width="65%" valign="middle">
       <ul>
-        <li>🐧 <b>Linux Enthusiast</b>: Automatización y administración remota de servidores y dispositivos móviles.</li>
-        <li>🤖 <b>Modelos de IA &amp; LLMs</b>: Investigación de nuevos modelos, agentes autónomos y visión computacional.</li>
-        <li>🔌 <b>Hardware &amp; Domótica</b>: Dispositivos biométricos, redes y telecomunicaciones.</li>
-        <li>☕ <b>Coffee &amp; Logic</b>: Transformando café y té en código limpio y arquitecturas resilientes.</li>
+        <li><b>Linux Enthusiast</b>: Automatización y administración remota de servidores y dispositivos móviles.</li>
+        <li><b>Modelos de IA &amp; LLMs</b>: Investigación de nuevos modelos, agentes autónomos y visión computacional.</li>
+        <li><b>Hardware &amp; Domótica</b>: Dispositivos biométricos, redes y telecomunicaciones.</li>
+        <li><b>Coffee &amp; Logic</b>: Transformando café y té en código limpio y arquitecturas resilientes.</li>
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
@@ -107,7 +107,7 @@ Status: Open to high-impact projects & innovative tech roles
 
 <div align="center">
 
-### ░░ TECH STACK & TOOLS ░░
+### TECH STACK & TOOLS
 
 #### Lenguajes de Programación
 <p align="center">
@@ -144,5 +144,5 @@ Status: Open to high-impact projects & innovative tech roles
 ---
 
 <div align="center">
-  <sub>Diseñado con precisión para <a href="https://github.com/reymondaf650-del">reymondaf650-del</a> · Santa Cruz, Bolivia 🇧🇴</sub>
+  <sub>Diseñado para <a href="https://github.com/reymondaf650-del">reymondaf650-del</a> · Santa Cruz, Bolivia</sub>
 </div>
