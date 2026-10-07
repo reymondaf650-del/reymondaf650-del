@@ -42,6 +42,12 @@
     </tr>
   </table>
 
+  <br/>
+
+  <!-- 3D Contribution Timeline (Colocado arriba) -->
+  <h3>░░ 3D CONTRIBUTION TIMELINE ░░</h3>
+  <img src="profile-3d-contrib/profile-night-green.svg" alt="Ramon Dario Aguilar Flores - 3D Contribution Graph" width="100%" />
+
 </div>
 
 ---
@@ -81,17 +87,6 @@ Status: Open to high-impact projects & innovative tech roles
 * 🐧 **Linux Enthusiast**: Automatización y administración remota de entornos y dispositivos móviles.
 * 🤖 **Exploración de Modelos de IA**: Pruebas continuas de nuevos LLMs, visión artificial y agentes autónomos.
 * 🔌 **Hardware & Domótica**: Integraciones con dispositivos biométricos y hardware de red.
-
----
-
-<div align="center">
-
-### ░░ 3D CONTRIBUTION TIMELINE ░░
-
-<!-- Generado automáticamente por GitHub Actions vía github-profile-3d-contrib -->
-<img src="profile-3d-contrib/profile-night-view.svg" alt="Ramon Dario Aguilar Flores - 3D Contribution Graph" width="100%" />
-
-</div>
 
 ---
 
